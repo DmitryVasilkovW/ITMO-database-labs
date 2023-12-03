@@ -2,7 +2,7 @@
 
 ***Найти название самого продаваемого продукта.***
 
-# [Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task1.sql)
+[Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task1.sql)
 
 ***№2***
 

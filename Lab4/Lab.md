@@ -2,21 +2,27 @@
 
 ***Найти название самого продаваемого продукта.***
 
-# [Решение](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task1.sql)
+# [Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task1.sql)
 
 ***№2***
 
 ***Найти покупателя, совершившего покупку на самую большую сумму, считая
-сумму покупки исходя из цены товара без скидки (UnitPrice). (сори что тут PSQL)***
+сумму покупки исходя из цены товара без скидки (UnitPrice)***
+
+# [Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task2.sql)
 
 ***№3***
 
 ***Найти такие продукты, которые покупал только один покупатель.***
 
+# [Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task3.sql)
+
 ***№4***
 
 ***Вывести список продуктов, цена которых выше средней цены товаров в
 подкатегории, к которой относится товар.***
+
+# [Code](https://github.com/DmitryVasilkovW/ITMO-database-labs/blob/main/Lab4/Task4.sql)
 
 ***№5***
 
